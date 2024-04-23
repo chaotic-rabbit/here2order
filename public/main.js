@@ -1,8 +1,8 @@
 // Sample food items data
 const menuItems = [
-  { id: 1, name: 'Soy Burger', price: 238, image: 'veggie_burger.webp' },
-  { id: 2, name: 'Beef Burger', price: 2430, image: 'beef_burger.jpeg' },
-  { id: 3, name: 'Chicken Burger', price: 753, image: 'chicken_burger.jpeg' },
+  { id: 1, name: 'Soy Burger', price: 238, image: 'soy.png' },
+  { id: 2, name: 'Beef Burger', price: 2430, image: 'beef.png' },
+  { id: 3, name: 'Chicken Burger', price: 753, image: 'chicken.png' },
   // Add more items as needed
 ];
 

@@ -105,3 +105,7 @@ button {
 button:hover {
   background-color: #555;
 }
+
+#title {
+  margin-right: auto; font-family: 'Now', sans-serif; color: #41C1BA; font-size: 25px;
+}
